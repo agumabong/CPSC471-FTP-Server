@@ -1,0 +1,19 @@
+# CPSC471_FTP
+
+READ ME 
+Contributors: 
+Aaron Gumabong agumabong@csu.fullerton.edu
+
+LANGUAGE
+--------
+Python
+
+INSTRUCTIONS
+------------
+
+The files that are "in" the server need to be in the same directory as the server file. 
+Same thing with the client file, any files that the client would like to upload needs to
+be inside of the same directory as the client file. Server file needs to be run first or 
+the program will not work. 
+
+No special details about our project to note.
